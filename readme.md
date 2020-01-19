@@ -1,9 +1,9 @@
 /* ------------------------------------------------------
-Template Name: Alime - Photography HTML Template
-Template Author: Colorlib
-Template Author URI: https://colorlib.com
+Template Name: manisha meena portfolio website
+Template Author: Himanshu singh
+Template Author URI: https://https://himanshusinghofficial.github.io/himanshusingh
 Version: 1.0.0
-Last Update: Feb 22, 2019
+Last Update: Feb 22, 2020
 ----------------------------------------------------- */
 
 /* --------------------------------
